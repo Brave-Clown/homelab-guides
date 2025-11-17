@@ -9,7 +9,7 @@ This repository contains step-by-step guides for deploying various applications 
 ## Guides Available
 
 ### TrueNAS SCALE
-- **[Neko Browser Installation](./truenas/neko-installation.md)** - Run a self-hosted virtual browser on TrueNAS SCALE
+- **[Neko Browser Installation](./truenas/neko-installation.md)** - Run a self-hosted virtual browser ([Neko by m1k1o](https://github.com/m1k1o/neko)) on TrueNAS SCALE
 
 ## Contributing
 
