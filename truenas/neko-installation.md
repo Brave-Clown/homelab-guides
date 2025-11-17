@@ -1,5 +1,7 @@
 # Installing Neko on TrueNAS SCALE via Custom App
 
+> **About Neko:** [Neko](https://github.com/m1k1o/neko) is a self-hosted virtual browser that runs in Docker and uses WebRTC. Created by [m1k1o](https://github.com/m1k1o).
+
 This guide walks through installing Neko on TrueNAS SCALE using the Custom App feature. Perfect for homelabbers who want to run Neko alongside other services on their NAS.
 
 ## Prerequisites
