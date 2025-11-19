@@ -13,7 +13,7 @@ This repository contains step-by-step guides for deploying various applications 
 
 ## Contributing
 
-Found an issue or have a suggestion? Feel free to open an issue or submit a pull request!
+Found an issue or have a suggestion? Feel free to open an [Issue](https://github.com/your-username/homelab-guides/issues)
 
 ## Environment
 
@@ -30,12 +30,6 @@ These guides are provided as-is for educational and personal use. Feel free to a
 ## Acknowledgments
 
 Thanks to the open-source community and all the developers who make self-hosting possible!
-
-## Questions or Feedback?
-
-Have questions about a guide or suggestions for improvements? 
-- Open an [Issue](https://github.com/your-username/homelab-guides/issues)
-- All feedback welcome!
 
 ---
 
