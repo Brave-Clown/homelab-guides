@@ -1,6 +1,6 @@
 # Upgrading Proxmox VE from 8.2.2 to 9.1.2
 
-**Date:** December 7, 2025  
+**Date:** December 6th and 7th (Six Seven), 2025  
 **Duration:** ~1 hour (not including backup time and drama)  
 **Outcome:** ✅ Success - all VMs and containers running smoothly
 
