@@ -19,7 +19,7 @@ Found an issue or have a suggestion? Feel free to open an [Issue](https://github
 
 These guides are tested in my homelab running:
 - TrueNAS SCALE (Community Edition)
-- **Hypervisors:** ([Proxmox](proxmox))
+- [Proxmox](proxmox)
   - VE 9.1.2 ([upgrade notes from 8.2.2 to 9.1.2](proxmox/proxmox-upgrade-8-to-9.md))
   - Proxmox Backup Server 4.1 ([PBS 4.1 Setup with TrueNAS SCALE](proxmox/proxmox-backup-server-setup-with-truenas-storage.md))
 - Nginx Proxy Manager for reverse proxy
