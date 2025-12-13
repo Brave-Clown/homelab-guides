@@ -4,7 +4,7 @@ A collection of installation guides and configurations for self-hosted applicati
 
 ## About
 
-This repository contains step-by-step guides for deploying various applications on homelab infrastructure. Each guide is written with beginners in mind, providing clear instructions that anyone can follow.
+This repository contains step-by-step guides for deploying various applications on homelab infrastructure. Some guides are written with beginners in mind, providing clear instructions that anyone can follow, others less so.
 
 ## Guides Available
 
