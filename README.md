@@ -24,6 +24,7 @@ These guides are tested in my homelab running:
   - Proxmox Backup Server 4.1 ([PBS 4.1 Setup with TrueNAS SCALE](proxmox/proxmox-backup-server-setup-with-truenas-storage.md))
 - Nginx Proxy Manager for reverse proxy
 - Various self-hosted applications
+  - [Audiobookshelf](Audiobookshelf/Self-Hosting%20Audiobookshelf%20on%20TrueNAS%20SCALE.md)
 
 ## License
 
