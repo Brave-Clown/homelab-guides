@@ -109,7 +109,6 @@ audiobooks/
 
 **Tips**:
 
-- Use padded numbers (001, 002) for proper file ordering
 - Include sequence numbers in book folder names (01, 02) for series
 - Add `cover.jpg` or `cover.png` in each book folder
 - Supported formats: MP3, M4B, M4A, AAC, FLAC, OGG, OPUS
