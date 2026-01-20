@@ -127,6 +127,17 @@ Change the `Image Tag` to use different browsers:
 - `google-chrome` - Full Chrome experience
 - `brave` - Privacy-focused
 - `edge` - Microsoft Edge
+  
+## Optional: Persistent Storage with Datasets
+
+For persistent browser profiles and downloads, create datasets before installation:
+
+1. Go to **Datasets** in TrueNAS
+2. Create: `apps/neko-profile`
+3. Create: `apps/neko-downloads`
+4. In Custom App, add **Storage** mounts:
+   - Host Path: `/mnt/pool/apps/neko-profile` → Mount Path: `/home/neko/.mozilla`
+   - Host Path: `/mnt/pool/apps/neko-downloads` → Mount Path: `/home/neko/Downloads`
 
 ## Performance Tips
 
