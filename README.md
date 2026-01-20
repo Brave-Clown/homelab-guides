@@ -26,6 +26,7 @@ These guides are tested in my homelab running:
 - Various self-hosted applications
   - [Audiobookshelf](Audiobookshelf/Self-Hosting%20Audiobookshelf%20on%20TrueNAS%20SCALE.md)
   - [Nextcloud](https://github.com/Brave-Clown/homelab-guides/blob/main/truenas/Nextcloud.md)
+  - [Firefox Sync](https://github.com/Brave-Clown/homelab-guides/blob/main/truenas/Firefox_Sync.md)
 
 ## License
 
