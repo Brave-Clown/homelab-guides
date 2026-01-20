@@ -25,6 +25,7 @@ These guides are tested in my homelab running:
 - Nginx Proxy Manager for reverse proxy
 - Various self-hosted applications
   - [Audiobookshelf](Audiobookshelf/Self-Hosting%20Audiobookshelf%20on%20TrueNAS%20SCALE.md)
+  - [Nextcloud](https://github.com/Brave-Clown/homelab-guides/blob/main/truenas/Nextcloud.md)
 
 ## License
 
