@@ -38,4 +38,4 @@ Thanks to the open-source community and all the developers who make self-hosting
 
 ---
 
-**Want to support?** Star this repo if you find these guides helpful! ⭐
+**Want to support?** Star this repo if you find these guides helpful!
